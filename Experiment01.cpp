@@ -27,7 +27,7 @@ void complexRec(int n, int &count) {
           count++;
        }
        p >>= 1;
-       
+       count++;
    }
 
 
