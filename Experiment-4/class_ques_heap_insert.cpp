@@ -4,7 +4,6 @@
 using namespace std;
 
 
-using namespace std;
 #define MAX 100
 
 int heap[MAX];
